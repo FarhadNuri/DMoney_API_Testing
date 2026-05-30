@@ -5,6 +5,31 @@
 
 This repository presents a professional-grade API testing project for the **Dmoney REST API**, focusing on financial transaction operations like deposits, transfers, withdrawals, and balance inquiries. It includes a complete suite of manual and automated test cases, detailed issue reports, and documentation to demonstrate best practices in API quality assurance.
 
+---
+
+## API Testing Documentation & Resources
+
+| Resources                     | Link                                              |
+| ---------------------------- | ------------------------------------------------- |
+|  API Documentation         | [Postman_API_Collection](https://documenter.getpostman.com/view/49204800/2sBXqQFd13)                                     |
+|  HTML Report               | [API_Collection_HTML_Report](https://dmoney-api-htmlreport.netlify.app/) |
+|  Test Case File            | [DMoney_Test_Cases](https://docs.google.com/spreadsheets/d/1CXGs9wK5gcrMqqaqAdG_PVDFkuXA7XdU7CsYFEcR9xY/edit?usp=sharing)                                
+
+
+---
+
+## Manual Testing Documentation & Resources
+
+| Resources                     | Link                                              |
+| ---------------------------- | ------------------------------------------------- |
+|  Test Case File            | [DMoney_Test_Cases](https://docs.google.com/spreadsheets/d/1rBxuKHU7PGmhoNtWN5hx5IpEfwCpWngCkTcJ4HmVg9I/edit?gid=0#gid=0)                                 |
+| Completion Report | [DMoney_Completion_Report](https://docs.google.com/spreadsheets/d/1g51xXvaBfLmyW8LiNfDsk_iW3x3Uy3WIw-Vup7spB6A/edit?gid=0#gid=0) |
+|  Bug Report    | [DMoney_Bug_Report](https://docs.google.com/spreadsheets/d/1_UUlLQen29JL2y8VQH8SQOqGbLTgXCoiPt7ysk6WKXw/edit?gid=0#gid=0)                                 |
+| Check List | [DMoney_Checklist](https://docs.google.com/spreadsheets/d/1B2vLeRM-1tHgn9cBrr6chfLsDPLv7cVGOCBHarUGe-U/edit)
+
+
+---
+
 
 ## Key Features
 
@@ -15,18 +40,6 @@ This repository presents a professional-grade API testing project for the **Dmon
 * Validation of API responses, status codes, authentication, and business logic
 * Well-documented bug reports and improvement recommendations for better API quality
 * Clear test documentation and API traceability using official API references
-
-
----
-
-
-## API Testing Documentation & Resources
-
-| Resources                     | Link                                              |
-| ---------------------------- | ------------------------------------------------- |
-|  API Documentation         | [Postman_API_Collection](https://documenter.getpostman.com/view/49204800/2sBXqQFd13)                                     |
-|  HTML Report               | [API_Collection_HTML_Report](https://dmoney-api-htmlreport.netlify.app/) |
-|  Test Case File            | [DMoney_Test_Cases](https://docs.google.com/spreadsheets/d/1CXGs9wK5gcrMqqaqAdG_PVDFkuXA7XdU7CsYFEcR9xY/edit?usp=sharing)                                
 
 
 ---
@@ -78,18 +91,6 @@ gmailToken = secretGmailToken
 node .\report.js
 ```
 --- 
-
-## Manual Testing Documentation & Resources
-
-| Resources                     | Link                                              |
-| ---------------------------- | ------------------------------------------------- |
-|  Test Case File            | [DMoney_Test_Cases](https://docs.google.com/spreadsheets/d/1rBxuKHU7PGmhoNtWN5hx5IpEfwCpWngCkTcJ4HmVg9I/edit?gid=0#gid=0)                                 |
-| Completion Report | [DMoney_Completion_Report](https://docs.google.com/spreadsheets/d/1g51xXvaBfLmyW8LiNfDsk_iW3x3Uy3WIw-Vup7spB6A/edit?gid=0#gid=0) |
-|  Bug Report    | [DMoney_Bug_Report](https://docs.google.com/spreadsheets/d/1_UUlLQen29JL2y8VQH8SQOqGbLTgXCoiPt7ysk6WKXw/edit?gid=0#gid=0)                                 |
-| Check List | [DMoney_Checklist](https://docs.google.com/spreadsheets/d/1B2vLeRM-1tHgn9cBrr6chfLsDPLv7cVGOCBHarUGe-U/edit)
-
-
----
    
 
 
